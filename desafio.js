@@ -1,1 +1,4 @@
-console.log("hello, my name is")
+let nomeHeroi = "Debugandoaprogramação"
+console.log("Olá meu nome é " + nomeHeroi)
+
+
