@@ -33,10 +33,3 @@ let XpDoHeroi = 9900
         case XpDoHeroi >=10001:
             console.log("Olá meu nome é " + nomeHeroi + " esta no nivel de Radiante")
             break }
-    
-
-   
-            
-//usar node desafio.js para o terminal ler meu codigo 
-//para atualiza no github usar git add . depois git commit -m "algum nome" e por fim git push -u origin main 
-
