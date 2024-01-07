@@ -1,5 +1,5 @@
 let nomeHeroi = "DesbugandoAprogramação"
-let XpDoHeroi = 9000
+let XpDoHeroi = 9900
 
 for (let Ferro = 0; Ferro <=1000; Ferro++){
     if(XpDoHeroi === Ferro){
@@ -44,9 +44,6 @@ for (let Radiante = 10001; Radiante =>10001; Radiante++){
  
 
 
-
-
-//tem que usar um for 
             
 //usar node desafio.js para o terminal ler meu codigo 
 //para atualiza no github usar git add . depois git commit -m "algum nome" e por fim git push -u origin main 
